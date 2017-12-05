@@ -1,0 +1,6 @@
+com\bis\gfi\entities\BaseEntity.class
+com\bis\gfi\entities\UserRole.class
+com\bis\gfi\enums\Roles.class
+com\bis\gfi\entities\Role.class
+com\bis\gfi\entities\UserProfile.class
+com\bis\gfi\enums\Gender.class
